@@ -20,4 +20,7 @@ Dropout layer with a probability of 20%.
 Flatten layer.
 Fully connected layer with 128 neurons and rectifier activation.
 Fully connected layer with 50 neurons and rectifier activation.
-Output layer
+Output layer.
+
+RESULTS:
+Excellent results achieve a prediction error of less than 1%. State-of-the-art prediction error of approximately 0.2% can be achieved with large Convolutional Neural Networks. There is a listing of the state-of-the-art results and links to the relevant papers on the MNIST
